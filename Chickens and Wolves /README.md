@@ -7,7 +7,7 @@ This program solves the chickens and wolves puzzle using uninformed and informed
 This code will print out the states along the solution path from the start state to the goal state. If no such path exists, code will print out a no solution found message.
 
 ## Results:
-<p align="center"><img  src="j"></p>
+<p align="center"><img  src="https://github.com/sasmazonur/Artificial-Intelligence/blob/main/Chickens%20and%20Wolves%20/results.png"></p>
 
 
 The results of all the test cases, follow up with our expectations, but there are some ordinary results. ASTAR performed best, the second was BFS, third IDDFS, and last was DFS.
